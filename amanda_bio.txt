@@ -1,0 +1,4 @@
+Name: amanda
+Age: 40
+Location: kentucky
+Hobby: coding
